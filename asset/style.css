@@ -63,7 +63,7 @@ main{
     flex-wrap: wrap;
     margin-top: 100px;
     gap: 1rem;
-    padding-inline: 150px;
+    padding-inline: 50px;
 }
 .container-item{
     position: relative;
@@ -154,16 +154,12 @@ footer {
     align-items:first baseline; 
     padding-inline: 100px;
 }
-.speak-box { 
-    height: 150px;   
-    flex: 0 1 40%;
-    padding-right: 50px;
-}
 footer .icon-box > h3 {
     color: white;
     font-size: 0.7rem;
     text-align: center;    
 }
+
 footer .info h3 {
     font-weight: bold;
     margin-bottom: 10px;
